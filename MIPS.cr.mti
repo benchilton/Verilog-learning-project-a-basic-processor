@@ -1,0 +1,88 @@
+{H:/Year2/MIPS Architecture/clockgenerator.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/clockgenerator.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module clockgenerator
+
+Top level modules:
+	clockgenerator
+
+} {} {}} {H:/Year2/MIPS Architecture/controller.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/controller.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {H:/Year2/MIPS Architecture/register.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/register.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} {H:/Year2/MIPS Architecture/branchControl.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/branchControl.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module branchControl
+
+Top level modules:
+	branchControl
+
+} {} {}} {H:/Year2/MIPS Architecture/instructionRegister.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/instructionRegister.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module instructionRegister
+
+Top level modules:
+	instructionRegister
+
+} {} {}} {H:/Year2/MIPS Architecture/programCounter.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/programCounter.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module programCounter
+
+Top level modules:
+	programCounter
+
+} {} {}} {H:/Year2/MIPS Architecture/programMemory.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/programMemory.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module programMemory
+
+Top level modules:
+	programMemory
+
+} {} {}} {H:/Year2/MIPS Architecture/signExtend.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/signExtend.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module signExtend
+
+Top level modules:
+	signExtend
+
+} {} {}} {H:/Year2/MIPS Architecture/test_full.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/test_full.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module test_full
+
+Top level modules:
+	test_full
+
+} {} {}} {H:/Year2/MIPS Architecture/aluControl.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/aluControl.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module aluControl
+
+Top level modules:
+	aluControl
+
+} {} {}} {H:/Year2/MIPS Architecture/instructions.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/instructions.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+
+} {} {}} {H:/Year2/MIPS Architecture/machineCode.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/machineCode.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling program machineCode
+
+Top level modules:
+	machineCode
+
+} {} {}} {H:/Year2/MIPS Architecture/ALU.sv} {1 {vlog -work work -vopt -sv -stats=none {H:/Year2/MIPS Architecture/ALU.sv}
+Model Technology ModelSim SE-64 vlog 2020.1 Compiler 2020.01 Jan 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

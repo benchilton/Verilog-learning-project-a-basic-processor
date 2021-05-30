@@ -1,0 +1,348 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.01, Jan 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/MentorGraphics/modeltech64_2020.1/examples
+T_opt
+!s110 1612967935
+VeA_41Hd;6e=LB`OAzl?b;2
+04 15 4 work test_fetchCycle fast 0
+=11-0050569d40c7-6023effe-143-d7c4
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.1;71
+R0
+T_opt1
+!s110 1613564152
+V5XWHmYZXjWbXSmZ9f2RR?0
+Z4 04 9 4 work test_full fast 0
+=1-0050569d520d-602d08f6-107-32d4
+R1
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1613440380
+V2=XVK@lCknj]41GXYNkTN3
+R4
+=1-0050569d50fd-602b257b-1ed-5f10
+o-quiet -auto_acc_if_foreign -work work
+R2
+n@_opt2
+R3
+R0
+vALU
+Z5 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1613440563
+!i10b 1
+!s100 kVQX7z?2n;@0eiB7^AfMW1
+Z6 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1R<<AGe7ngbO]c[gzhLZB3
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z8 dH:/Year2/MIPS Architecture
+w1613440337
+8H:/Year2/MIPS Architecture/ALU.sv
+FH:/Year2/MIPS Architecture/ALU.sv
+!i122 1006
+L0 3 97
+Z9 OL;L;2020.1;71
+r1
+!s85 0
+31
+Z10 !s108 1613440563.000000
+!s107 H:/Year2/MIPS Architecture/ALU.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/ALU.sv|
+!i113 0
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@a@l@u
+valuControl
+R5
+Z12 !s110 1613440568
+!i10b 1
+!s100 m7n`n]DJ`JV7aajQ9k7X52
+R6
+I5MW>>Do2BNML[ZekF3UdY2
+R7
+S1
+R8
+w1613421365
+8H:/Year2/MIPS Architecture/aluControl.sv
+FH:/Year2/MIPS Architecture/aluControl.sv
+!i122 1016
+L0 2 63
+R9
+r1
+!s85 0
+31
+Z13 !s108 1613440568.000000
+!s107 H:/Year2/MIPS Architecture/aluControl.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/aluControl.sv|
+!i113 0
+R11
+R2
+nalu@control
+vbranchControl
+R5
+!s110 1613440569
+!i10b 1
+!s100 JJ6a^b?fdH2m8Qgjd;5om2
+R6
+IE_i_aBJP>Qch1d:GImI?d0
+R7
+S1
+R8
+w1613421111
+8H:/Year2/MIPS Architecture/branchControl.sv
+FH:/Year2/MIPS Architecture/branchControl.sv
+!i122 1017
+L0 3 24
+R9
+r1
+!s85 0
+31
+R13
+!s107 H:/Year2/MIPS Architecture/branchControl.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/branchControl.sv|
+!i113 0
+R11
+R2
+nbranch@control
+vclockgenerator
+R5
+R12
+!i10b 1
+!s100 HeV5Ez6g@VBQiV3]oYnHV0
+R6
+IkXRQQ<QeGElL59kEQND:N2
+R7
+S1
+R8
+w1613047597
+8H:/Year2/MIPS Architecture/clockgenerator.sv
+FH:/Year2/MIPS Architecture/clockgenerator.sv
+!i122 1015
+L0 1 10
+R9
+r1
+!s85 0
+31
+Z14 !s108 1613440567.000000
+!s107 H:/Year2/MIPS Architecture/clockgenerator.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/clockgenerator.sv|
+!i113 0
+R11
+R2
+vcontroller
+R5
+Z15 !s110 1613440567
+!i10b 1
+!s100 fHn8CGTa7i?<VWe_GDPfC1
+R6
+IW`_z;]iADGecOif>S]5bj3
+R7
+S1
+R8
+w1613421800
+8H:/Year2/MIPS Architecture/controller.sv
+FH:/Year2/MIPS Architecture/controller.sv
+!i122 1013
+L0 2 102
+R9
+r1
+!s85 0
+31
+Z16 !s108 1613440566.000000
+!s107 H:/Year2/MIPS Architecture/controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/controller.sv|
+!i113 0
+R11
+R2
+vinstructionRegister
+R5
+Z17 !s110 1613440566
+!i10b 1
+!s100 C@Z<b@e5WbN=?0<0SzN210
+R6
+IN<?aP6G_m38Re<Go3doPT1
+R7
+S1
+R8
+w1612892508
+8H:/Year2/MIPS Architecture/instructionRegister.sv
+FH:/Year2/MIPS Architecture/instructionRegister.sv
+!i122 1011
+L0 7 14
+R9
+r1
+!s85 0
+31
+Z18 !s108 1613440565.000000
+!s107 H:/Year2/MIPS Architecture/instructionRegister.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/instructionRegister.sv|
+!i113 0
+R11
+R2
+ninstruction@register
+4machineCode
+R5
+Z19 !s110 1613440565
+!i10b 1
+!s100 Iff6NkBeUHG89n>QI[mK<1
+R6
+ITn8C=5GHTHkNAMBga5HDS3
+R7
+S1
+R8
+w1613424282
+8H:/Year2/MIPS Architecture/machineCode.sv
+FH:/Year2/MIPS Architecture/machineCode.sv
+!i122 1010
+L0 10 0
+R9
+r1
+!s85 0
+31
+R18
+!s107 instructions.sv|H:/Year2/MIPS Architecture/machineCode.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/machineCode.sv|
+!i113 0
+R11
+R2
+nmachine@code
+vprogramCounter
+R5
+Z20 !s110 1613440564
+!i10b 1
+!s100 33_Kn;2neX[JEi9n]XPQk0
+R6
+IC:FA?9e_gGO:8D1bSU9M]0
+R7
+S1
+R8
+w1613440468
+8H:/Year2/MIPS Architecture/programCounter.sv
+FH:/Year2/MIPS Architecture/programCounter.sv
+!i122 1007
+L0 1 17
+R9
+r1
+!s85 0
+31
+R10
+!s107 H:/Year2/MIPS Architecture/programCounter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/programCounter.sv|
+!i113 0
+R11
+R2
+nprogram@counter
+vprogramMemory
+R5
+R20
+!i10b 1
+!s100 JQ4BEaDELf_GSNIc61e6>3
+R6
+I7JA;k7f;ZIWHDHZUBM04`3
+R7
+S1
+R8
+w1613248217
+8H:/Year2/MIPS Architecture/programMemory.sv
+FH:/Year2/MIPS Architecture/programMemory.sv
+!i122 1008
+L0 2 19
+R9
+r1
+!s85 0
+31
+Z21 !s108 1613440564.000000
+!s107 H:/Year2/MIPS Architecture/programMemory.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/programMemory.sv|
+!i113 0
+R11
+R2
+nprogram@memory
+vregister
+R5
+R19
+!i10b 1
+!s100 J2^e^o7>KR=1]aTbh=6DP2
+R6
+IAB^ceEWSZUl4nMdUjiIRI3
+R7
+S1
+R8
+w1613335867
+8H:/Year2/MIPS Architecture/register.sv
+FH:/Year2/MIPS Architecture/register.sv
+!i122 1009
+L0 23 28
+R9
+r1
+!s85 0
+31
+R21
+!s107 H:/Year2/MIPS Architecture/register.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/register.sv|
+!i113 0
+R11
+R2
+vsignExtend
+R5
+R17
+!i10b 1
+!s100 Q>JIVQ1Ckf8gVRVf715X]3
+R6
+Ija_AIFAeW8_fBN725LPC;2
+R7
+S1
+R8
+w1612972841
+8H:/Year2/MIPS Architecture/signExtend.sv
+FH:/Year2/MIPS Architecture/signExtend.sv
+!i122 1012
+L0 2 5
+R9
+r1
+!s85 0
+31
+R16
+!s107 H:/Year2/MIPS Architecture/signExtend.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/signExtend.sv|
+!i113 0
+R11
+R2
+nsign@extend
+vtest_full
+R5
+R15
+!i10b 1
+!s100 a<`aLaCe3PCF4o8NY;`m^3
+R6
+IQT1kWboZ<Nb]X7mK[>Q042
+R7
+S1
+R8
+w1613440561
+8H:/Year2/MIPS Architecture/test_full.sv
+FH:/Year2/MIPS Architecture/test_full.sv
+!i122 1014
+L0 1 52
+R9
+r1
+!s85 0
+31
+R14
+!s107 H:/Year2/MIPS Architecture/test_full.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|H:/Year2/MIPS Architecture/test_full.sv|
+!i113 0
+R11
+R2
